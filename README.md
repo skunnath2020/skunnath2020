@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sushama Kunnath
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Data Analysis, Machine Learning and using various modules/Languages
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Analysis, Machine Learning making use of various modules/Languages
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me : sskunnath@gmail.com
 

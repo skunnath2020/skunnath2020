@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Sushama Kunnath
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analysis, Machine Learning making use of various modules/Languages
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me : sskunnath@gmail.com
+- 👋 Hi, I’m 
+- 👀 I’m interested 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to 
+- 📫 How to reach me
 
 <!---
 skunnath2020/skunnath2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sushama 
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning new technologies
-- 💞️ My passion is to learn new things
+- 💞️ I love to read
 - 📫 Email me at: sskunnath@gmail.com
 
 <!---
